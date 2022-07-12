@@ -136,7 +136,7 @@ def main_apv():
 
     try:
 
-    except IOError:
+
 
         os.system("clear")
 
