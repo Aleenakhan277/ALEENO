@@ -134,9 +134,9 @@ def main_apv():
 
     print(logo)
 
+    
+
     try:
-
-
 
         os.system("clear")
 
